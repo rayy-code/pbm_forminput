@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429658663918",
+    "project_id": "test-forminput-c0076",
+    "storage_bucket": "test-forminput-c0076.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429658663918:android:93060897225355d72e7cff",
+        "android_client_info": {
+          "package_name": "com.forminput.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZXSm3Zae21md8YZABMdaODbWbs4baKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
